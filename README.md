@@ -35,7 +35,7 @@ __Melhoria 1__, _Melhoria 2_
 
 ### Adicionar uma imagem externa
 
-![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1920px-PHP-logo.svg)
+![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1920px-PHP-logo.svg.png)
 
 ### Links interessantes:
 
@@ -45,4 +45,4 @@ __Melhoria 1__, _Melhoria 2_
 
 Contribuidor principal: https://github.com/lucasdblucas
 
-[![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1920px-PHP-logo.svg)](https://github.com/lucasdblucas)
+[![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1920px-PHP-logo.svg.png)](https://github.com/lucasdblucas)
