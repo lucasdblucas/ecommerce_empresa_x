@@ -29,6 +29,10 @@ __Melhoria 1__, _Melhoria 2_
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
 
-### Umagem local
+### Adicionar uma imagem local
 
 ![Logo do python](img/python.jpg)
+
+### Adicionar uma imagem externa
+
+![Logo do PHP](https://pt.wikipedia.org/wiki/Ficheiro:PHP-logo.svg)
